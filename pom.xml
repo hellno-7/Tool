@@ -41,7 +41,7 @@
                                              </descriptorRefs>
                                              <archive>
                                                       <manifest>
-                                                               <mainClass>com.gorkwobble.logmanager.LogManager</mainClass>
+                                                               <mainClass>com.toolstest</mainClass>
                                                       </manifest>
                                              </archive>
                                     </configuration>
